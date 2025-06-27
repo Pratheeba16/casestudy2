@@ -42,4 +42,6 @@ models:
       +materialized: table
     xml_data:
       +materialized: table
+    query:
+      +materialized: table
 

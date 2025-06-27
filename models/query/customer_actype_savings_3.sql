@@ -1,0 +1,1 @@
+select * from CASESTUDY2.DBT.CUSTOMER_DATA where ACCOUNT_TYPE='Savings'
